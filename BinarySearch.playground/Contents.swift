@@ -2,6 +2,7 @@
 // MARK: - BINARY SEARCH ALGORITHM
 let numArray = [4,2,10,16,14,99,87,64]
 
+
 // MARK: - Use While Loop
 func binarySearch(searchValue: Int, array: [Int]) -> Bool {
     
@@ -35,6 +36,8 @@ func binarySearch(searchValue: Int, array: [Int]) -> Bool {
 
 // MARK: - Use Recursion
 func alternateBinarySearch(searchValue: Int, array: [Int]) -> Bool {
+    
+    if array.count == 0 { return false }
     
     var sortedArray = array.sorted(by: <)
     
