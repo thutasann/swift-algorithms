@@ -10,6 +10,7 @@ This repo contains useful Swift Algorithms along with each respective playground
 - Most Common Element in Array [(Source)](https://github.com/thutasann/swift-algorithms/blob/master/MostCommonElementInArray.playground/Contents.swift)
 - FizzBuzz [(Source)](https://github.com/thutasann/swift-algorithms/blob/master/FizzBuzz.playground/Contents.swift)
 - Binary Search Two [(Source)](https://github.com/thutasann/swift-algorithms/blob/master/BinarySearchTwo.playground/Contents.swift)
+- Factorials & Recursion [(Sourcce)](https://github.com/thutasann/swift-algorithms/blob/master/FactorialsRecursion.playground/Contents.swift)
 
 
 # Data Structures and Algorithms
