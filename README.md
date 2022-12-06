@@ -9,9 +9,12 @@ This repo contains useful Swift Algorithms along with each respective playground
 - Binary Search Tree [(Source)](https://github.com/thutasann/swift-algorithms/blob/master/BinarySearchTree.playground/Contents.swift)
 - Most Common Element in Array [(Source)](https://github.com/thutasann/swift-algorithms/blob/master/MostCommonElementInArray.playground/Contents.swift)
 - FizzBuzz [(Source)](https://github.com/thutasann/swift-algorithms/blob/master/FizzBuzz.playground/Contents.swift)
+- Binary Search Two [(Source)](https://github.com/thutasann/swift-algorithms/blob/master/BinarySearchTwo.playground/Contents.swift)
 
-# Data Structures and Definitions
 
+# Data Structures and Algorithms
+
+- [Binary Search](https://www.geeksforgeeks.org/binary-search/)
 - [Binary Search Tree](https://www.geeksforgeeks.org/binary-search-tree-data-structure/)
 - [FizzBuzz](https://www.geeksforgeeks.org/fizz-buzz-implementation/)
 
