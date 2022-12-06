@@ -4,6 +4,7 @@ This repo contains useful Swift Algorithms along with each respective playground
 
 - Binary Search
 - Binary Search Tree
+- Search Most Common Element in Array
 
 # Collected By
 
