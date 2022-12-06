@@ -1,5 +1,8 @@
 # Swift Algorithms
 
+<img src="assets/swift.png" alt="Swift Algorithms collected by Thuta Sann" width="100" style="margin-bottom:20px; margin-top: 20px"/>
+
+
 This repo contains useful Swift Algorithms along with each respective playgrounds.
 
 - Binary Search [(Source)](https://github.com/thutasann/swift-algorithms/blob/master/BinarySearch.playground/Contents.swift)
@@ -15,3 +18,9 @@ This repo contains useful Swift Algorithms along with each respective playground
 # Collected By
 
 Here is the collector portfolio - [Thuta Sann](https://thutasann.vercel.app/).
+
+<style>
+    li{
+        margin-bottom: 10px
+    }
+</style>
