@@ -5,12 +5,13 @@
 
 This repo contains useful Swift Algorithms along with each respective playgrounds.
 
-- Binary Search [(Source)](https://github.com/thutasann/swift-algorithms/blob/master/BinarySearch.playground/Contents.swift)
-- Binary Search Tree [(Source)](https://github.com/thutasann/swift-algorithms/blob/master/BinarySearchTree.playground/Contents.swift)
-- Most Common Element in Array [(Source)](https://github.com/thutasann/swift-algorithms/blob/master/MostCommonElementInArray.playground/Contents.swift)
-- FizzBuzz [(Source)](https://github.com/thutasann/swift-algorithms/blob/master/FizzBuzz.playground/Contents.swift)
-- Binary Search Two [(Source)](https://github.com/thutasann/swift-algorithms/blob/master/BinarySearchTwo.playground/Contents.swift)
-- Factorials & Recursion [(Sourcce)](https://github.com/thutasann/swift-algorithms/blob/master/FactorialsRecursion.playground/Contents.swift)
+- Binary Search [(code)](https://github.com/thutasann/swift-algorithms/blob/master/BinarySearch.playground/Contents.swift)
+- Binary Search Tree [(code)](https://github.com/thutasann/swift-algorithms/blob/master/BinarySearchTree.playground/Contents.swift)
+- Most Common Element in Array [(code)](https://github.com/thutasann/swift-algorithms/blob/master/MostCommonElementInArray.playground/Contents.swift)
+- FizzBuzz [(code)](https://github.com/thutasann/swift-algorithms/blob/master/FizzBuzz.playground/Contents.swift)
+- Binary Search V2.0 [(code)](https://github.com/thutasann/swift-algorithms/blob/master/BinarySearchTwo.playground/Contents.swift)
+- Factorials & Recursion [(code)](https://github.com/thutasann/swift-algorithms/blob/master/FactorialsRecursion.playground/Contents.swift)
+- Most Common Name in Array [(code)](https://github.com/thutasann/swift-algorithms/blob/master/MostCommonInArray.playground/Contents.swift)
 
 
 # Data Structures and Algorithms
