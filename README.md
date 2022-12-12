@@ -12,6 +12,7 @@ This repo contains useful Swift Algorithms along with each respective playground
 - Binary Search V2.0 [(code)](https://github.com/thutasann/swift-algorithms/blob/master/BinarySearchTwo.playground/Contents.swift)
 - Factorials & Recursion [(code)](https://github.com/thutasann/swift-algorithms/blob/master/FactorialsRecursion.playground/Contents.swift)
 - Most Common Name in Array [(code)](https://github.com/thutasann/swift-algorithms/blob/master/MostCommonInArray.playground/Contents.swift)
+- Reversed Words [(code)](https://github.com/thutasann/swift-algorithms/blob/master/ReverseWords.playground/Contents.swift)
 
 
 # Data Structures and Algorithms
